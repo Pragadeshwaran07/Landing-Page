@@ -1,6 +1,5 @@
 # landing-page
-
-Using HTML and CSS
+  Using HTML and CSS
 ---
 
 https://pragadeshwaran07.github.io/landing-page/
